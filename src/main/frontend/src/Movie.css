@@ -1,0 +1,28 @@
+.click {
+    color: black;
+    margin-top: 10px;
+}
+
+.click:hover {
+    text-decoration: underline;
+}
+
+.actor {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.actor:hover {
+    text-decoration: underline;
+}
+
+.movie {
+    text-decoration: none;
+}
+
+.movie:hover {
+    text-decoration: underline;
+    color: #FFD700;
+}

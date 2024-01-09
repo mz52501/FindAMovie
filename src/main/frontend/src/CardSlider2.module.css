@@ -1,0 +1,17 @@
+.sec {
+    background: #202020;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.outer {
+    width: 100%;
+    margin: auto;
+    height: 84vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
